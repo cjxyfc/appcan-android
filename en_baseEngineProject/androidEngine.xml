@@ -3,6 +3,6 @@
     <version>$version$</version>
     <package>$package$</package>
     <kernel>$kernel$</kernel>
-    <description>关闭不必要的权限</description>
+    <description>关闭不必要的安装权限</description>
     <dssVersion>4.3.1</dssVersion>
 </info>
