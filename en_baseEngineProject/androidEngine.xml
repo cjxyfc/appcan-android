@@ -3,6 +3,6 @@
     <version>$version$</version>
     <package>$package$</package>
     <kernel>$kernel$</kernel>
-    <description>增加全局控制加密开关的开关:globalobfuscation</description>
-    <dssVersion>4.3.0</dssVersion>
+    <description>关闭不必要的权限</description>
+    <dssVersion>4.3.1</dssVersion>
 </info>
